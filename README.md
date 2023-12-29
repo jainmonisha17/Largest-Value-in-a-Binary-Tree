@@ -6,3 +6,5 @@
                                7              1
 
                           9        2     10        5   
+
+Output: Largest value of Binary Tree: [12, 7, 10]
